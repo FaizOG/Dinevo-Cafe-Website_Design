@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Boldonse';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/boldonse/v1/ZgNQjPxGPbbJUZemjB37jGU.ttf) format('truetype');
+}
